@@ -3,7 +3,7 @@
 Weather-Dashboard
 Unit 06 homework
 
-See the deployed app here: 
+See the deployed app here: https://jamiekim87.github.io/weather-dashboard/
 
 Project Description
 
