@@ -7,7 +7,7 @@ See the deployed app here: https://jamiekim87.github.io/weather-dashboard/
 
 Project Description
 
-Screenshot of weather dashboard
+<img src="image/weather1.png">
 
 In this app, the user enters the name of a city (either just the city name, or "city, state") in the search field, then clicks the search button. The app will display the current weather conditions in that city, including temperature, humidity, UV index, and a picture representing whether it is clear, cloudy, raining, etc. Additionally, a 5-day forecast for that city is displayed below the current conditions showing similar information (predicted at 12:00 PM on each day).
 
